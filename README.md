@@ -1,2 +1,1 @@
-# arpon
-OS
+gohugo.io
